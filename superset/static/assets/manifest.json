@@ -1,0 +1,95 @@
+{
+  "app": "superset",
+  "entrypoints": {
+    "theme": {
+      "css": [],
+      "js": [
+        "/static/assets/theme.e35bcdfd.entry.js"
+      ]
+    },
+    "preamble": {
+      "css": [],
+      "js": [
+        "/static/assets/vendors.e35bcdfd.chunk.js",
+        "/static/assets/preamble.e35bcdfd.entry.js"
+      ]
+    },
+    "addSlice": {
+      "css": [],
+      "js": [
+        "/static/assets/vendors.e35bcdfd.chunk.js",
+        "/static/assets/mathjs.e35bcdfd.chunk.js",
+        "/static/assets/thumbnail.e35bcdfd.chunk.js",
+        "/static/assets/3.e35bcdfd.chunk.js",
+        "/static/assets/4.e35bcdfd.chunk.js",
+        "/static/assets/addSlice.e35bcdfd.entry.js"
+      ]
+    },
+    "explore": {
+      "css": [],
+      "js": [
+        "/static/assets/vendors.e35bcdfd.chunk.js",
+        "/static/assets/mathjs.e35bcdfd.chunk.js",
+        "/static/assets/thumbnail.e35bcdfd.chunk.js",
+        "/static/assets/3.e35bcdfd.chunk.js",
+        "/static/assets/4.e35bcdfd.chunk.js",
+        "/static/assets/6.e35bcdfd.chunk.js",
+        "/static/assets/explore.e35bcdfd.entry.js"
+      ]
+    },
+    "dashboard": {
+      "css": [],
+      "js": [
+        "/static/assets/vendors.e35bcdfd.chunk.js",
+        "/static/assets/mathjs.e35bcdfd.chunk.js",
+        "/static/assets/thumbnail.e35bcdfd.chunk.js",
+        "/static/assets/3.e35bcdfd.chunk.js",
+        "/static/assets/4.e35bcdfd.chunk.js",
+        "/static/assets/6.e35bcdfd.chunk.js",
+        "/static/assets/dashboard.e35bcdfd.entry.js"
+      ]
+    },
+    "sqllab": {
+      "css": [],
+      "js": [
+        "/static/assets/vendors.e35bcdfd.chunk.js",
+        "/static/assets/3.e35bcdfd.chunk.js",
+        "/static/assets/sqllab.e35bcdfd.entry.js"
+      ]
+    },
+    "crudViews": {
+      "css": [],
+      "js": [
+        "/static/assets/vendors.e35bcdfd.chunk.js",
+        "/static/assets/mathjs.e35bcdfd.chunk.js",
+        "/static/assets/thumbnail.e35bcdfd.chunk.js",
+        "/static/assets/3.e35bcdfd.chunk.js",
+        "/static/assets/4.e35bcdfd.chunk.js",
+        "/static/assets/crudViews.e35bcdfd.entry.js"
+      ]
+    },
+    "menu": {
+      "css": [],
+      "js": [
+        "/static/assets/vendors.e35bcdfd.chunk.js",
+        "/static/assets/3.e35bcdfd.chunk.js",
+        "/static/assets/menu.e35bcdfd.entry.js"
+      ]
+    },
+    "profile": {
+      "css": [],
+      "js": [
+        "/static/assets/vendors.e35bcdfd.chunk.js",
+        "/static/assets/3.e35bcdfd.chunk.js",
+        "/static/assets/profile.e35bcdfd.entry.js"
+      ]
+    },
+    "showSavedQuery": {
+      "css": [],
+      "js": [
+        "/static/assets/vendors.e35bcdfd.chunk.js",
+        "/static/assets/showSavedQuery.e35bcdfd.entry.js"
+      ]
+    }
+  }
+}
